@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --dark-grey: #333333;
+    --light-grey: #808080;
+    --yellow: #FFB612;
+    --red: #dc0a17;
+    --green: #2FC022;
+}
+
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Roboto:wght@400;500;700&display=swap);
